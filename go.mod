@@ -1,4 +1,4 @@
-module example.com/wtg2svgweb
+module github.com/owulveryck/svgLiveReloader
 
 go 1.18
 
